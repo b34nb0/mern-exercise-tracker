@@ -1,0 +1,59 @@
+.link-button {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+  
+.link-button:hover,
+.link-button:focus {
+  text-decoration: underline;
+}
+
+.brand-name {
+  font-size: 2rem;
+  color: #fff;
+  margin-right: 1rem;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.brand-name:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+}
+
+.banner {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+
+}
+
+.banner h3 {
+  width: 50%;
+  font-size: 5rem;
+  
+  text-align: center;
+}
+
+.banner img {
+  width: 50%;
+}
+
+.table-exercises {
+  border: solid 40px #212529;
+}
+
+.create-form {
+  margin : auto;
+  width : 50%;
+}
