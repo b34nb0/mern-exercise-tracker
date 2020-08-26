@@ -6,3 +6,4 @@ Additional dependencies:
 	* Bootstrap  
 	* Material UI  
 
+![Exercise tracker main page](/Screenshot%202020-08-25%20at%2018.48.24.png "Screenshot 01")  
